@@ -41,7 +41,18 @@
 ### Step 14: 
   Stop
 # Program:
+<img width="782" height="582" alt="iapr4-1 1pro" src="https://github.com/user-attachments/assets/c3e1bb19-4316-4db4-9073-cd7a6517b3ff" />
+
+
+<img width="778" height="534" alt="iapr4-1 2pro" src="https://github.com/user-attachments/assets/85509a3d-7e46-4244-b8e9-944626cd479d" />
+
+
 # Output:
+
+<img width="835" height="120" alt="iapr4-1out" src="https://github.com/user-attachments/assets/7d267b48-96f3-424e-aded-fb0cd8fcabee" />
+
+
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -89,7 +100,13 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 13: 
   Stop
 # Program:
+<img width="779" height="496" alt="iapr4-2pro" src="https://github.com/user-attachments/assets/d1a1df86-4390-4523-90ac-898fbb5cf4cf" />
+
+
 # Output:
+<img width="792" height="160" alt="iapr4-2out" src="https://github.com/user-attachments/assets/e5f9c2d1-5744-4e8a-8965-b932f1c05a96" />
+
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -137,7 +154,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 11: 
  Stop
 # Program:
+
+<img width="781" height="580" alt="iapr4-3pro" src="https://github.com/user-attachments/assets/1072aed5-0b33-4ece-8eff-e99a39d8e1b5" />
 # Output:
+<img width="765" height="173" alt="iapr4-3out" src="https://github.com/user-attachments/assets/4c9761d0-9a7d-4120-bc8b-4b2bc6c4d7d6" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -185,7 +206,20 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 7: 
   Stop
 # Program:
+<img width="761" height="599" alt="iapr4-4 1pro" src="https://github.com/user-attachments/assets/7c43605d-a058-4faa-9df9-f024dc75d7f5" />
+
+
+
+<img width="759" height="474" alt="iapr4-4 2pro" src="https://github.com/user-attachments/assets/3b395f74-f6b7-45ed-a0ab-91f8ac2aabe7" />
+
+
+
+
 # Output:
+<img width="832" height="247" alt="iapr4-4out" src="https://github.com/user-attachments/assets/f8dbe526-b9fd-4e03-89ce-16ad522419c4" />
+
+
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -220,7 +254,20 @@ To build a C program to convert a string as described above, using a user-define
 ### Step 6: 
  Stop
 # Program:
+<img width="760" height="600" alt="iapr4-5 1pro" src="https://github.com/user-attachments/assets/2a9b656d-43ff-4d17-aefc-07171d37dc1a" />
+
+
+
+<img width="801" height="410" alt="iapr4-5 2pro" src="https://github.com/user-attachments/assets/e93f513e-1700-40e0-9bb8-8b12d1acc17c" />
+
+
+
 # Output:
+<img width="811" height="156" alt="iapr4-5out" src="https://github.com/user-attachments/assets/c921575c-c774-4995-bd04-c332343fbe31" />
+
+
+
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
